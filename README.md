@@ -1,1 +1,1 @@
-# OnchainVampireSurvivors-core-demo-
+# OnchainVampireSurvivors-core-demo
