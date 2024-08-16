@@ -1,1 +1,0 @@
-# OnchainVampireSurvivors-core-demo
